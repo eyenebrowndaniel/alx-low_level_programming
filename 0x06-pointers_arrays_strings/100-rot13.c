@@ -1,5 +1,5 @@
+#include "main.h"
 
-[A#include "main.h"[B[A[C[D[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
 /**
  * rot13 - encodes a string in rot13
  * @s: string to be encoded
